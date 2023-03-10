@@ -1,0 +1,1 @@
+Palindrome function checks a string to determine if it is a palindrome. Returns a boolean value, and considers all characters, even spaces, as part of the string. "Taco cat" would return false because it has a space in it.
